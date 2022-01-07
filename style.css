@@ -1,0 +1,184 @@
+body{
+    display: block;
+    margin: 8%;
+    background-color: rgb(192, 216, 224);
+
+}
+.top-left{
+    width: 73%;
+    margin-left: 3%;
+    margin-top: 12%;
+}
+.first-title{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(6, 131, 180);
+}
+.section1 p{
+      font-family: 'Roboto', sans-serif;
+}
+.left-title{
+    font-size: 40px;
+    border-left: 5px solid rgb(82, 5, 82);
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.explore-btn{
+    padding: 10px 40px;
+    border: 1px solid  rgb(255, 64, 16) ;
+    background-color: rgb(255, 64, 16);
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+}
+.person-2{
+    width: 40%;
+    margin-left: 45%;
+    margin-top: 10%;
+    
+
+}
+.section1 {
+    display: flex;
+    margin-top: -10%;
+    
+}
+.my-mission{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    color: rgb(47, 3, 128)
+    
+}
+.my-mission span{
+    color: orangered;
+}
+.section2{
+    display: flex;
+}
+.pera0{
+    background-color: rgb(219, 224, 224);
+    border: 1px solid  rgb(219, 224, 224);
+    border-radius: 15px;);
+    width: 400px;
+    height: 380px;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+.pera1{
+    background-color: rgb(167, 248, 248);
+    border: 1px solid rgb(167, 248, 248);
+    border-radius: 15px;
+    width: 400px;
+    height: 380px;
+    margin-left: 40px;
+    margin-right: 25px;
+}.pera2{
+    background-color: rgb(161, 167, 245);
+    border: 1px solid rgb(161, 167, 245);
+    border-radius: 15px;
+    width: 400px;
+    height: 380px;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+.pera0, .pera1, .pera2 h2{
+    padding-left: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+ .pera2 p{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 23px;
+    margin-right: 15px;
+ }
+.illusteator{
+    width: 150px;
+    height: 150px;
+}
+.section3{
+    margin-top: 10%;
+    display: flex;
+    padding-bottom: 10%;
+}
+.coding-img{
+    width: 450px;
+    margin-left: 50% ;
+    padding-left: 30px;
+}
+.s3-width{
+    width: 90px;  
+    background-image: url(image/shape-1.png)  ;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.DWL {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 40%;
+}
+.DWL h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.DWL h2{
+    font-weight: 700;
+    font-size: 40px;   
+}
+.section4 {
+    display: flex;
+    padding-bottom: 10%;
+}
+.KGC {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 3%;
+    width: 50%;
+    padding-top: 2%;
+}
+.KGC h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.project-img{
+    width: 450px;
+    margin-left: 20% ;
+    padding-right: 20%;
+
+}
+.project{
+         margin-right: -10%;
+    background-image: url(image/shape-1.png)  ;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.me{
+    background-image: url(image/shape-6.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.about{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 3%;
+    width: 50%;
+    font-size: 30px;
+    padding-top: 2%;
+}
+.about span{color: orangered}
+.section5{
+    display: flex;
+}
+
+
+.footer-content{
+    background-color: #303039;
+    height: 100px;
+    margin: 10% -9% -2% -10%;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+    margin-bottom: -20%;
+}
+.footer-content span{
+    color: rgb(221, 144, 56)
+;
+}
